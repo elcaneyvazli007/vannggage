@@ -1,0 +1,29 @@
+html{
+    font-size: 125%;
+}
+
+a{
+    text-decoration: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.section-padding {
+	padding: 100px 0;
+}
+
+.home{
+    background-image: url('./img/homebg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.about-5{
+    background-image: url('./img/homebg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
